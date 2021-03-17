@@ -16,27 +16,73 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Shweta Patil</h1>
-<h3 align="center">A passionate frontend & ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetapatil232&label=Profile%20views&color=0e75b6&style=flat" alt="shwetapatil232" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shwetap45784259" target="blank"><img src="https://img.shields.io/twitter/follow/shwetap45784259?logo=twitter&style=for-the-badge" alt="shwetap45784259" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shwetap45784259" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shwetap45784259" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shweta-patil-8890b81a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shweta-patil-8890b81a0/" height="30" width="40" /></a>
+<p align="center">
+ <!--
+ <img src="https://badges.pufler.dev/visits/Samridhi-98/Samridhi-98"/>
+ <img src="https://badges.pufler.dev/years/Samridhi-98"/>
+ -->
+ <img src="https://badges.pufler.dev/visits/ShwetaPatil232/ShwetaPatil232"/>
+ <img src="https://badges.pufler.dev/years/ShwetaPatil232"/>
+ <img src="https://badges.pufler.dev/repos/ShwetaPatil232"/>
+ <img src="https://badges.pufler.dev/commits/monthly/ShwetaPatil232"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<br><br><br>
+<!--
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+-->
+<!--
+[![Visits Badge](https://badges.pufler.dev/visits/Samridhi-98/Samridhi-98)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/Samridhi-98)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Samridhi-98)](https://badges.pufler.dev)
+-->
+<!--
+<p><em>Student at <a href="http://www.ipu.ac.in/">Guru Gobind Singh Indraprastha University</a> 
+-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetapatil232&show_icons=true&locale=en&layout=compact" alt="shwetapatil232" /></p>
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+ 
+<p align="center">
+<!--
+<img src="https://img.shields.io/badge/-agrawal_samriddhi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/agrawal_samriddhi/" />
+<img src="https://img.shields.io/badge/-agrawalsamriddhi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agrawalsamriddhi83@gmail.com" /> -->
+<img src="https://img.shields.io/badge/-samridhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shweta-patil-8890b81a0/" />
+<img src="https://img.shields.io/badge/-Samriddhi981-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ShwetaP45784259" />
+
+</p>
+
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
 <br>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetapatil232&show_icons=true&locale=en" alt="shwetapatil232" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetapatil232&" alt="shwetapatil232" /></p>
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ShwetaPatil232&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaPatil232&theme=radical">
+ <!--
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaPatil232&hide=css,java,html&theme=radical">
+-->
+</p>
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShwetaPatil232&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ShwetaPatil232&theme=redical">
+</p>  
