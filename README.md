@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 <!--
 <img src="https://img.shields.io/badge/-agrawal_samriddhi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/agrawal_samriddhi/" />
 <img src="https://img.shields.io/badge/-agrawalsamriddhi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agrawalsamriddhi83@gmail.com" /> -->
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Linkedin&logo=Linkedin&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshweta-patil-8890b81a0%2F">
- <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FShwetaP45784259">
+<a href="https://linkedin.com/in/shweta-patil232"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Linkedin&logo=Linkedin&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshweta-patil-8890b81a0%2F"></a>
+<a href="https://twitter.com/ShwetaP45784259"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FShwetaP45784259"></a>
 </p>
 
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
