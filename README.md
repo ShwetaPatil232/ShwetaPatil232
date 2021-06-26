@@ -100,4 +100,12 @@ I'm a young enthusiastic Pre-final Year Engineering student, interested in devel
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ShwetaPatil232/count.svg" />
+ 
+
+## Coding is fun 🤩💝
+### :handshake: Always happy to help!
+
+
+### :hugs: Thank You!
+Thank you so much for visiting my tiny space on [GitHub](https://github.com/ShwetaPatil232)! :v: 
 </p>
