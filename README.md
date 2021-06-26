@@ -45,15 +45,21 @@ I'm a young enthusiastic Pre-final Year Engineering student, interested in devel
 <p><em>Student at <a href="http://www.ipu.ac.in/">Guru Gobind Singh Indraprastha University</a> 
 -->
 
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
- 
-<p align="center">
-<!--
-<img src="https://img.shields.io/badge/-agrawal_samriddhi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/agrawal_samriddhi/" />
-<img src="https://img.shields.io/badge/-agrawalsamriddhi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agrawalsamriddhi83@gmail.com" /> -->
-<a href="https://linkedin.com/in/shweta-patil232"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Linkedin&logo=Linkedin&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshweta-patil-8890b81a0%2F"></a>
-<a href="https://twitter.com/ShwetaP45784259"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FShwetaP45784259"></a>
-</p>
+<br>
+
+<h3 align="center">Connect with me 🤝</h3>
+<body>
+    <div class="img1">
+<p align='center'>
+<a href="https://www.linkedin.com/in/shweta-patil-8890b81a0/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         
+<a href="mailto:shwetar.patil.23@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a> 
+<a href="https://twitter.com/ShwetaP45784259" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width=48></a>
+<p/>
+</div>
+</body>
+   
+ <br/>
+
 
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
