@@ -57,8 +57,7 @@ I'm a young enthusiastic Pre-final Year Engineering student, interested in devel
 <p/>
 </div>
 </body>
-   
- <br/>
+<br/>
 
 
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
@@ -84,48 +83,28 @@ I'm a young enthusiastic Pre-final Year Engineering student, interested in devel
 
 
 <!---------- 1) My Github Statistics fire   2) My contribution Streak fire   3) Most Used Languages  Graph Representation -->
-<br>
-<p align = "left">
-  <img width="45%" src = "https://github-readme-stats.vercel.app/api?username=ShwetaPatil232&show_icons=true&theme=radical&line_height=27">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/user=ShwetaPatil232&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+
+<hr>
+<center> <h3 align = "center"> :zap: GitHub Stats </h3> </center>
+<p align = "center">
+  <img  width="40%"  src = "https://github-readme-stats.vercel.app/api?username=ShwetaPatil232&show_icons=true&theme=radical&line_height=27">
+  <img  width="42%"  src = "https://github-readme-streak-stats.herokuapp.com/?user=ShwetaPatil232&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" />
 </p>
 
 <p align = "center"> 
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaPatil232&theme=radical" width="45%" />
+ <img  width="40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaPatil232&theme=radical&langs_count=15" />
 </p> 
-
-
-<!--
- 
-### :zap: GitHub Stats
-
-<p>
-<center>
-<img  width="45%" src="https://github-readme-stats.vercel.app/api?username=ShwetaPatil232&count_private=true&show_icons=true&border_radius=5&hide_border=true&theme=radical&custom_title= Shweta's GitHub Stats" />
-
-<img  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShwetaPatil232&show_icons=true&locale=en&layout=compact&theme=radical&line_height&custom_title=My contribution Streak 🔥" />
-<br/>
-
- 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaPatil232&layout=compact&hide_border=true&langs_count=15&theme=radical">
- 
- 
-</center>
- </p> 
--->
-
-
-
-
-
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=ShwetaPatil232&theme=redical">
 </p>  
 
 
-<!--------   Footer Part -------->
 
+
+
+<!--------   Footer Part -------->
+<hr>
 <br>
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
@@ -143,3 +122,4 @@ I'm a young enthusiastic Pre-final Year Engineering student, interested in devel
 <h3 align="center">:handshake: Always happy to help!</h3>
 <h3 align="center">:hugs: Thank You so much for visiting my tiny space on <a href="https://github.com/ShwetaPatil232">GitHub</a> ! :v:</h3>
 
+<hr>
