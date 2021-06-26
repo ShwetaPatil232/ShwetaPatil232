@@ -98,14 +98,13 @@ I'm a young enthusiastic Pre-final Year Engineering student, interested in devel
 <!-- <img align="left" alt="Dog" width="" src="tenor.gif" />
 <img align="right" alt="Dog" width="" src="tenor.gif" /> -->
 <p align="center"> 
-  Visitor count<br>
+  <h3>Visitor count</h3>
+  <br>
   <img src="https://profile-counter.glitch.me/ShwetaPatil232/count.svg" />
  
  
 <br>
 <h3 align="center">:handshake: Always happy to help!</h3>
-<h3 align="center">:hugs: Thank You</h3>
-<br>
+<h3 align="center">:hugs: Thank You so much for visiting my tiny space on [GitHub](https://github.com/ShwetaPatil232)! :v:</h3>
 
-Thank you so much for visiting my tiny space on [GitHub](https://github.com/ShwetaPatil232)! :v: 
 </p>
