@@ -85,3 +85,15 @@ Here are some ideas to get you started:
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=ShwetaPatil232&theme=redical">
 </p>  
+
+<br>
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+<br>
+<!-- <img align="left" alt="Dog" width="" src="tenor.gif" />
+<img align="right" alt="Dog" width="" src="tenor.gif" /> -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ShwetaPatil232/count.svg" />
+</p>
