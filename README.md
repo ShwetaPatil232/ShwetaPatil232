@@ -105,6 +105,6 @@ I'm a young enthusiastic Pre-final Year Engineering student, interested in devel
  
 <br>
 <h3 align="center">:handshake: Always happy to help!</h3>
-<h3 align="center">:hugs: Thank You so much for visiting my tiny space on [GitHub](https://github.com/ShwetaPatil232)! :v:</h3>
+<h3 align="center">:hugs: Thank You so much for visiting my tiny space on <a href="https://github.com/ShwetaPatil232">GitHub</a> ! :v:</h3>
 
 </p>
