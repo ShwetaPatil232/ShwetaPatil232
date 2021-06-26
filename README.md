@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/ShwetaPatil232/ShwetaPatil232/blob/main/Shweta%20Patil's-cover.png" />
+<img width="100%" align="center" src="https://github.com/ShwetaPatil232/ShwetaPatil232/blob/main/Shweta%20Patil's-cover.png" />
 <hr>
 <br>
 
