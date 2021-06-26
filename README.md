@@ -1,25 +1,12 @@
-<!-- ### Hi there 👋-->
-
-<!--
-**ShwetaPatil232/ShwetaPatil232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github.com/ShwetaPatil232/ShwetaPatil232/blob/main/Shweta%20Patil's-cover.png" />
+<hr>
+<br>
 
 <h1 align="center">Hi there, I'm Shweta <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 <h3 align="center">A misfit trying to create her own world of aspirations!</h3>
 <h3 align="center">Techie🧑‍💻  •  Coder💻  •  Learner📚  • Contributor😃</h3>
 
-I'm a young enthusiastic Pre-final Year Engineering student, interested in developing innovative solutions. I really loves technology because it empowers us to do the things which seems to be impossible or hard to normal peoples as well as also love contributing opensource becuase it proves the power of diversity and inclusion. Always ready for help.
+I'm a young enthusiastic Pre-final Year Engineering student, interested in developing innovative solutions. I loves to learn variouse technologies & contributing to opensource becuase it proves the power of diversity and inclusion. Always ready for help.
 
 
 <p align="center">
@@ -33,20 +20,10 @@ I'm a young enthusiastic Pre-final Year Engineering student, interested in devel
  <img src="https://badges.pufler.dev/commits/monthly/ShwetaPatil232"/>
 </p>
 
-<!--
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
--->
-<!--
-[![Visits Badge](https://badges.pufler.dev/visits/Samridhi-98/Samridhi-98)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/Samridhi-98)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Samridhi-98)](https://badges.pufler.dev)
--->
-<!--
-<p><em>Student at <a href="http://www.ipu.ac.in/">Guru Gobind Singh Indraprastha University</a> 
--->
 
+
+<!--  Connect Me Code    -->
 <br>
-
 <h3 align="center">Connect with me 🤝</h3>
 <body>
     <div class="img1">
@@ -60,32 +37,33 @@ I'm a young enthusiastic Pre-final Year Engineering student, interested in devel
 <br/>
 
 
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
+<!--  Tools And Languages  ----------->
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40" height="40"/>  
+<img src="https://static.javatpoint.com/images/logo/html-tutorial.png" alt="html" width="40" height="40"/> 
+<img src="https://static.javatpoint.com/images/logo/css3.jpg" alt="css" width="40" height="40"/> 
+<img src="https://static.javatpoint.com/images/logo/javascripthome.png" alt="javascript" width="40" height="40"/>   
+<img src="https://static.javatpoint.com/bootstrappages/images/bootstrap-logo.jpg" alt="boostrap" width="40" height="40"/>  
+<img src="https://static.javatpoint.com/images/homeicon/mysql.png" alt="mysql" width="40" height="40"/> 
+<img src="https://static.javatpoint.com/linux/images/linux-logo.png" alt="linux" width="40" height="40"/>  
+<img src="https://static.javatpoint.com/images/logo/androidhome.png" alt="android" width="40" height="40"/>  
+<img src="https://static.javatpoint.com/images/homeicon/jupyter.png" alt="JupyterNotebook" width="40" height="40"/>     
+<img src="https://static.javatpoint.com/tutorial/git/images/git-home.png" alt="git" width="40" height="40"/> 
+
 </p>
 
+</p>
 
 <!---------- 1) My Github Statistics fire   2) My contribution Streak fire   3) Most Used Languages  Graph Representation -->
 
 <hr>
 <center> <h3 align = "center"> :zap: GitHub Stats </h3> </center>
+<br>
 <p align = "center">
   <img  width="40%"  src = "https://github-readme-stats.vercel.app/api?username=ShwetaPatil232&show_icons=true&theme=radical&line_height=27">
   <img  width="42%"  src = "https://github-readme-streak-stats.herokuapp.com/?user=ShwetaPatil232&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" />
