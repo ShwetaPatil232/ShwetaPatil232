@@ -70,7 +70,7 @@ I'm a young enthusiastic Pre-final Year Engineering student, interested in devel
 </p>
 
 <p align = "center"> 
- <img  width="40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaPatil232&theme=radical&langs_count=15" />
+ <img  width="40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaPatil232&layout=compact&theme=radical&langs_count=10" />
 </p> 
 
 <p align = "center">
