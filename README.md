@@ -17,10 +17,20 @@
 </a>
 </p>
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/shweta-patil232/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         
-<a href="mailto:shwetar.patil.23@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a> 
-<p/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shweta-patil232/" target="_blank">
+    <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="48" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/Srp232/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/shwetarpatil23" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
+  </a>
+  <a href="mailto:shwetar.patil.23@gmail.com" target="_blank">
+    <img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email">
+  </a>
+</p>
 
 ---
 
