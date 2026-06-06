@@ -17,6 +17,11 @@
 </a>
 </p>
 
+<p align='center'>
+<a href="https://www.linkedin.com/in/shweta-patil232/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         
+<a href="mailto:shwetar.patil.23@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a> 
+<p/>
+
 ---
 
 <!--Night Owl image-->
@@ -45,91 +50,40 @@
 | **Tools & DevOps** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white"/> `CI/CD Pipelines` `Linux GDB` |
 
 
-
-<p align="center">
- <img src="https://badges.pufler.dev/visits/ShwetaPatil232/ShwetaPatil232"/>
- <img src="https://badges.pufler.dev/years/ShwetaPatil232"/>
- <img src="https://badges.pufler.dev/repos/ShwetaPatil232"/>
- <img src="https://badges.pufler.dev/commits/monthly/ShwetaPatil232"/>
-</p>
-
-
-
-<!--  Connect Me Code    -->
-<br>
-<h3 align="center">Connect with me 🤝</h3>
-<body>
-    <div class="img1">
-<p align='center'>
-<a href="https://www.linkedin.com/in/shweta-patil-8890b81a0/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         
-<a href="mailto:shwetar.patil.23@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a> 
-<a href="https://twitter.com/ShwetaP45784259" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width=48></a>
-<p/>
-</div>
-</body>
-<br/>
-
-
-
-<!--  Tools And Languages  ----------->
-<h2 align="center">Languages and Tools:</h2>
-<p align="center">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40" height="40"/>  
-<img src="https://static.javatpoint.com/images/logo/html-tutorial.png" alt="html" width="40" height="40"/> 
-<img src="https://static.javatpoint.com/images/logo/css3.jpg" alt="css" width="40" height="40"/> 
-<img src="https://static.javatpoint.com/images/logo/javascripthome.png" alt="javascript" width="40" height="40"/>   
-<img src="https://static.javatpoint.com/bootstrappages/images/bootstrap-logo.jpg" alt="boostrap" width="40" height="40"/>  
-<img src="https://static.javatpoint.com/images/homeicon/mysql.png" alt="mysql" width="40" height="40"/> 
-<img src="https://static.javatpoint.com/linux/images/linux-logo.png" alt="linux" width="40" height="40"/>  
-<img src="https://static.javatpoint.com/images/logo/androidhome.png" alt="android" width="40" height="40"/>  
-<img src="https://static.javatpoint.com/images/homeicon/jupyter.png" alt="JupyterNotebook" width="40" height="40"/>     
-<img src="https://static.javatpoint.com/tutorial/git/images/git-home.png" alt="git" width="40" height="40"/> 
-
-</p>
-
-</p>
-
 <!---------- 1) My Github Statistics fire   2) My contribution Streak fire   3) Most Used Languages  Graph Representation -->
-
 <hr>
-<center> <h3 align = "center"> :zap: GitHub Stats </h3> </center>
+<h3 align = "center"> :zap: GitHub Stats </h3>
 <br>
 <p align = "center">
   <img  width="40%"  src = "https://github-readme-stats.vercel.app/api?username=ShwetaPatil232&show_icons=true&theme=radical&line_height=27">
   <img  width="42%"  src = "https://github-readme-streak-stats.herokuapp.com/?user=ShwetaPatil232&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" />
 </p>
 
-<p align = "center"> 
- <img  width="40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaPatil232&layout=compact&theme=radical&langs_count=10" />
-</p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ShwetaPatil232&theme=redical">
-</p>  
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- General GitHub Stats Card -->
+    <td width="50%" align="center" valign="center">
+<a href="https://github.com/ShwetaPatil232/github-readme-stats"><img alt="ShwetaPatil232's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ShwetaPatil232&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    </td>
+    <!-- Top Languages Stats Card -->
+    <td width="50%" align="center" valign="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ShwetaPatil232&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+    </td>
+  </tr>
+</table>
 
-
-
+<br/> 
+<p>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Shweta's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ShwetaPatil232&bg_color=1a1b26&color=70a5fd&line=7aa2f7&point=ffffff&hide_border=true" width="100%" /> </a>
+</p>
 
 
 <!--------   Footer Part -------->
 <hr>
 <br>
-<h3 align="center">
- Show some ❤️ by starring some of the repositories!
-</h3>
-<!-- <img align="left" alt="Dog" width="" src="tenor.gif" />
-<img align="right" alt="Dog" width="" src="tenor.gif" /> -->
-<div align="center"> 
-   <h3>Visitor count</h3>
-  <br>
-  <img src="https://profile-counter.glitch.me/ShwetaPatil232/count.svg" />
-</div>
- 
- 
-<br>
+<h3 align="center"> Show some ❤️ by starring some of the repositories! </h3> 
 <h3 align="center">:handshake: Always happy to help!</h3>
 <h3 align="center">:hugs: Thank You so much for visiting my tiny space on <a href="https://github.com/ShwetaPatil232">GitHub</a> ! :v:</h3>
 
