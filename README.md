@@ -21,12 +21,19 @@
   <a href="https://www.linkedin.com/in/shweta-patil232/" target="_blank">
     <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="48" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Srp232/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/shwetarpatil23" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/shwetapatil232" target="_blank">
+    <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="Dev.to" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:shwetar.patil.23@gmail.com" target="_blank">
     <img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email">
   </a>
