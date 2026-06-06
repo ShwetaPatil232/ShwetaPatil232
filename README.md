@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm Shweta <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 <h3 align="center">A misfit trying to create her own world of aspirations!</h3>
-<h3 align="center">Techie🧑‍💻  •  Coder💻  •  Learner📚  • Contributor😃</h3>
+<h3 align="center">🧑‍💻 Passionate Software Developer  •  💻 Coder   •  📚 Learner  • 😃Contributor</h3>
 
 I'm a young enthusiastic Pre-final Year Engineering student, interested in developing innovative solutions. I loves to learn variouse technologies & contributing to opensource becuase it proves the power of diversity and inclusion. Always ready for help.
 
