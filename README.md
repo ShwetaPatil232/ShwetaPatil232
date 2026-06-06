@@ -1,19 +1,52 @@
-<img width="100%" align="center" src="https://github.com/ShwetaPatil232/ShwetaPatil232/blob/main/Shweta%20Patil's-cover.png" />
-<hr>
+<h1 align="center">Hi there, I'm Shweta <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
+<h3 align="center">Passionate Software Developer | C++ Enthusiast | Backend & Full-Stack Learner</h3>
+
+<p align="center">
+  <img alt="Open Source" src="https://custom-icon-badges.demolab.com/badge/Open_Source-Enthusiast-236ad3?style=for-the-badge&logo=heart&logoColor=white&labelColor=1155ba"/>
+  <img alt="Coding Values" src="https://custom-icon-badges.demolab.com/badge/Logic-Driven-55960c?style=for-the-badge&logo=terminal&logoColor=white&labelColor=488207"/>
+  <img alt="Community" src="https://custom-icon-badges.demolab.com/badge/Diversity_%26_Inclusion-Believer-ff69b4?style=for-the-badge&logo=person&logoColor=white&labelColor=ff1493"/>
+</p>
+
+<p align="center">
+ <a href="https://github.com/ShwetaPatil232?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ShwetaPatil232?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/ShwetaPatil232?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ShwetaPatil232?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/ShwetaPatil232">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ShwetaPatil232&color=236ad3&style=for-the-badge&label=PROFILE+VIEWS"/>
+</a>
+</p>
+
+---
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+### 👨‍💻 About Me
+
+- 💻 Currently working as an **Software Engineer at FlexTrade Systems, Pune**
+- 🚀 Exploring **Modern C++ (C++11/14/17)**, **Backend Development**, and **System Design**
+- 🧠 Actively learning **DSA**, **Low-Level Design**, and development frameworks
+- 🧪 Experienced in writing **unit tests** using **Google Test** and adhering to **C++ best practices**
+- 🤝 Open to collaborations on **open-source**, **backend systems**, and **automotive software**
+- 🌐 Portfolio: [https://github.com/ShwetaPatil232]
+
 <br>
 
-<h1 align="center">Hi there, I'm Shweta <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
-<h3 align="center">A misfit trying to create her own world of aspirations!</h3>
-<h3 align="center">🧑‍💻 Passionate Software Developer  •  💻 Coder   •  📚 Learner  • 😃Contributor</h3>
+### 🛠️ Technical Toolkit
 
-I'm a young enthusiastic Pre-final Year Engineering student, interested in developing innovative solutions. I loves to learn variouse technologies & contributing to opensource becuase it proves the power of diversity and inclusion. Always ready for help.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white"/> |
+| **Systems & Backend** | `Multithreading` `STL` `OOPs` `Data Structures & Algorithms` `System Design` |
+| **Databases & Caching** | <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23DD0000.svg?style=flat&logo=redis&logoColor=white"/> |
+| **Tools & DevOps** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white"/> `CI/CD Pipelines` `Linux GDB` |
+
 
 
 <p align="center">
- <!--
- <img src="https://badges.pufler.dev/visits/Samridhi-98/Samridhi-98"/>
- <img src="https://badges.pufler.dev/years/Samridhi-98"/>
- -->
  <img src="https://badges.pufler.dev/visits/ShwetaPatil232/ShwetaPatil232"/>
  <img src="https://badges.pufler.dev/years/ShwetaPatil232"/>
  <img src="https://badges.pufler.dev/repos/ShwetaPatil232"/>
